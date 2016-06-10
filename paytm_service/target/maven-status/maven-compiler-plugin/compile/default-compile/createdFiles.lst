@@ -1,0 +1,4 @@
+com\aartek\service\LoginService.class
+com\aartek\service\RegistrationService.class
+com\aartek\service\RechargeService.class
+com\aartek\service\DisplayService.class

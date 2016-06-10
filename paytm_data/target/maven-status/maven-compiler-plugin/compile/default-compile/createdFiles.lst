@@ -1,0 +1,7 @@
+com\aartek\model\Registration.class
+com\aartek\repository\RegistrationRepository.class
+com\aartek\model\Recharge.class
+com\aartek\model\UserLogin.class
+com\aartek\repository\RechargeRepository.class
+com\aartek\repository\DisplayRepository.class
+com\aartek\repository\LoginRepository.class
